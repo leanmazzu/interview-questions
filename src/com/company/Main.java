@@ -77,9 +77,13 @@ public class Main {
 //        };
 //        System.out.println(FindLowestSeatCombination.lowestPrice(seats, 3));
 
-        System.out.println(AlmostPalindrome.indexToFormPalindrome("abbc"));
-        System.out.println(AlmostPalindrome.indexToFormPalindrome("abca"));
-        System.out.println(AlmostPalindrome.indexToFormPalindrome("abccbba"));
-        System.out.println(AlmostPalindrome.indexToFormPalindrome("abcd"));
+//        System.out.println(AlmostPalindrome.indexToFormPalindrome("abbc"));
+//        System.out.println(AlmostPalindrome.indexToFormPalindrome("abca"));
+//        System.out.println(AlmostPalindrome.indexToFormPalindrome("abccbba"));
+//        System.out.println(AlmostPalindrome.indexToFormPalindrome("abcd"));
+
+//        System.out.println(Arrays.toString(FirstPowers.firstNPowersOfTwo(6)));
+
+//        System.out.println(RepeatedWords.amountRepeated(new String[]{"car","house","cat","car","Tyrion","house"}));
     }
 }
