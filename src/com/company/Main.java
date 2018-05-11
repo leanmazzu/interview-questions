@@ -1,5 +1,6 @@
 package com.company;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main {
@@ -85,5 +86,10 @@ public class Main {
 //        System.out.println(Arrays.toString(FirstPowers.firstNPowersOfTwo(6)));
 
 //        System.out.println(RepeatedWords.amountRepeated(new String[]{"car","house","cat","car","Tyrion","house"}));
+
+
+//        System.out.println(RemoveElementInArray.removeElement(new ArrayList<>(Arrays.asList(4, 1, 1, 2, 1, 3)), 1));
+
+//        System.out.println(MostWantedDestination.mostWanted(new String[]{"Tokio", "Cancun", "Miami", "Tokio", "London", "Edimburgh", "London", "Tokio"}));
     }
 }
